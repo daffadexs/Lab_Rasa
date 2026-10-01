@@ -141,7 +141,7 @@ const menuData = [
         id: 16,
         title:"Pilihan Rasa Kue Pancong",
         category: "manis",
-        price: 0,
+        price: 15000,
         image: "img/rasa pancong.png",
         desc: "Berbagai pilihan rasa topping kue pancong lumer",
         ingredients: "Topping Cokelat, Topping Ovaltine, Topping keju, Topping Keju Cokelat, Topping Keju Ovaltine, Topping Keju Susu Kental Manis"
