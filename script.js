@@ -128,6 +128,33 @@ const menuData = [
         desc: "Seduhan double shot espresso murni tanpa gula yang memberikan rasa kopi segar, tegas, dan otentik.",
         ingredients: "Double Shot Espresso, Air Mineral, Es Batu"
     },
+   {
+        id: 15,
+        title: "Kue Pancong Lumer ",
+        category: "manis",
+        price: 8000,
+        image: "img/pancong susu.png",
+        desc: "Kue pancong kelapa gurih dimasak setengah matang dengan adonan lumer dan lelehan topping manis pilihan.",
+        ingredients: "Tepung Beras, Kelapa Parut, Santan, Telur, Margarin, Gula, Susu Kental Manis"
+    },
+    {
+        id: 16,
+        title:"Pilihan Rasa Kue Pancong",
+        category: "manis",
+        price: 0,
+        image: "img/rasa pancong.png",
+        desc: "Berbagai pilihan rasa topping kue pancong lumer",
+        ingredients: "Topping Cokelat, Topping Ovaltine, Topping keju, Topping Keju Cokelat, Topping Keju Ovaltine, Topping Keju Susu Kental Manis"
+    },
+    {
+        id: 17,
+        title:"Es Kuwut Mentimun",
+        category: "segar",
+        price: 10000,
+        image:"img/Es Kuwut.png",
+        desc:"Serutan mentimun segar dipadu perasan jeruk nipis, sirup melon, dan biji selasih penawar pedas & minyak alami.",
+        ingredients:"Mentimun, Jeruk Nipis, Sirup Melon, Biji Selasih, Es Batu"
+    }
 ];
 
 /* State Keranjang Belanja */
